@@ -1,0 +1,7 @@
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\bin\Debug\ordenar vector.exe.config
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\bin\Debug\ordenar vector.exe
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\bin\Debug\ordenar vector.pdb
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\obj\Debug\menu ejercicios.csprojAssemblyReference.cache
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\obj\Debug\menu ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\obj\Debug\ordenar vector.exe
+C:\Users\William Bautista\Downloads\menu ejercicios\ordenar vector\obj\Debug\ordenar vector.pdb
